@@ -52,6 +52,5 @@ class Truck(CarBase):
         return self.__get_body_volume
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    bmw = CarBase('afdsf', 'dsgfgg', '/fdgdg/asfdsf.tpg', 'dfgdfgdf')
-
+   
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
